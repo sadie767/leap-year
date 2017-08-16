@@ -8,6 +8,11 @@
 
 _This web app determines whether or not any year inputed by the user is a leap year._
 
+* _The program should return false when a year is not a leap year.
+* _The program should return true for years divisible by 4.
+* _The program should return false for years divisible by 100.
+* _The program should return true for years divisible by 400.
+
 ## Setup/Installation Requirements
 
 * _Open github and copy project URL
